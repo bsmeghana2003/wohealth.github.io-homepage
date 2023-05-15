@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wohealth.github.io-homepage/static/css/main.964fdded.css",
+    "main.js": "/wohealth.github.io-homepage/static/js/main.5f18e6d9.js",
+    "static/js/787.70d7140f.chunk.js": "/wohealth.github.io-homepage/static/js/787.70d7140f.chunk.js",
+    "index.html": "/wohealth.github.io-homepage/index.html",
+    "main.964fdded.css.map": "/wohealth.github.io-homepage/static/css/main.964fdded.css.map",
+    "main.5f18e6d9.js.map": "/wohealth.github.io-homepage/static/js/main.5f18e6d9.js.map",
+    "787.70d7140f.chunk.js.map": "/wohealth.github.io-homepage/static/js/787.70d7140f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.5f18e6d9.js"
+  ]
+}
